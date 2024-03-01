@@ -1,10 +1,10 @@
-#RGB-signals
+# RGB-signals
 
 - Este proyecto combina la captura de imágenes de una cámara web, el procesamiento de imágenes mediante transformadas de Fourier y filtros de color, y la visualización de los resultados en una interfaz gráfica interactiva.
 
 
 
-####Este proyecto en MATLAB consiste en una interfaz gráfica de usuario (GUI) que interactúa con una cámara web para capturar imágenes en tiempo real. Una vez capturada la imagen, se realiza un procesamiento que incluye:
+#### Este proyecto en MATLAB consiste en una interfaz gráfica de usuario (GUI) que interactúa con una cámara web para capturar imágenes en tiempo real. Una vez capturada la imagen, se realiza un procesamiento que incluye:
 
 - Transformada de Fourier: La imagen capturada se convierte a escala de grises y se le aplica una transformada de Fourier en el dominio de la frecuencia para cada columna.
 
@@ -14,7 +14,7 @@
 
 - Visualización Interactiva: Los resultados se muestran en diferentes pestañas dentro de la interfaz gráfica. Esto incluye una pestaña para la imagen original, otra para el espectro de amplitud y una tercera para el ajuste de color.
 
-####El proyecto se destaca por su capacidad para:
+#### El proyecto se destaca por su capacidad para:
 
 - Capturar imágenes en tiempo real desde una cámara web.
 - Aplicar transformaciones y filtros en el dominio de la frecuencia.
